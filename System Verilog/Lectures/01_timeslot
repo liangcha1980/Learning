@@ -1,0 +1,20 @@
+A time slot is divided into a set of ordered regions, as follows:
+    01) Preponed
+    02) Pre-Active
+    03) Active
+    04) Inactive
+    05) Pre-NBA
+    06) NBA
+    07) Post-NBA
+    08) Pre-Observed
+    09) Observed
+    10) Post-Observed
+    11) Reactive
+    12) Re-Inactive
+    13) Pre-Re-NBA
+    14) Re-NBA
+    15) Post-Re-NBA
+    16) Pre-Postponed
+    17) Postponed
+The purpose of dividing a time slot into these ordered regions is to provide predictable interactions between
+the design and testbench code.

@@ -6,3 +6,6 @@ program automatic test;
         run_test();
     end
 endprogram
+
+// simulation: 
+// simv +UVM_TESTNAME=test_base

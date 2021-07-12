@@ -9,3 +9,4 @@ endprogram
 
 // simulation: 
 // simv +UVM_TESTNAME=test_base
+// uvm_root singleton will construct and execute test defined by +UVM_TESTNAME

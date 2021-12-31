@@ -1,3 +1,0 @@
-Don't use std_logic_arith、std_logic_unsigned、std_logic_signed, they are from Synopsys
-    when using signed and unsigned in same file, function reload will crash and result in error
-NUMERIC_STD is really from IEEE.
